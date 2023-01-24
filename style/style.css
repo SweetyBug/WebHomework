@@ -1,0 +1,19 @@
+body {
+    background-color:hotpink;
+}
+
+#myCat {
+    height: 250px;
+}
+
+#dontMyCat{
+    height: 250px;
+}
+
+.container {
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: flex-start;
+}
